@@ -20,10 +20,6 @@ tags: C# Unity gas spreadsheet sqlite
 - 言語切り替えテキストを、C#でなくSQLに変換して使います。
 - 定数は変更ありません。
 
-# アセットの入手 (GitHub)
-ダウンロード ⇒ [GetSharedSQL.unitypackage]()
-[ソースはこちらです。]()
-
 # スプレッドシートの雛形
 [スプレッドシートの雛形](https://docs.google.com/spreadsheets/d/1fm81xrC1qh4-yAnGVocDa6iqj-xDocZUMOTModalxzw/edit?usp=sharing)が異なります。
 元記事の雛形は使えませんのでご注意ください。

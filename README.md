@@ -16,6 +16,7 @@ tags: C# Unity gas spreadsheet sqlite
 - 「シナリオやユーザー向けメッセージなどの編集者」や「各種の初期値を設定する担当者」がプログラマーでない場合に共同制作が容易になります。
 - 多言語対応のテキストと、言語に依存しない固定値 (int、float、string、bool)を扱えます。
 
-# スプレッドシートの雛形
-[スプレッドシートの雛形](https://docs.google.com/spreadsheets/d/1fm81xrC1qh4-yAnGVocDa6iqj-xDocZUMOTModalxzw/edit?usp=sharing)が異なります。
+# 注意点
+- [SQLiteUnityKit](https://github.com/tetr4lab/SQLiteUnityKit)は含みません。
+- [スプレッドシートの雛形](https://docs.google.com/spreadsheets/d/1fm81xrC1qh4-yAnGVocDa6iqj-xDocZUMOTModalxzw/edit?usp=sharing)が異なります。
 元記事の雛形は使えませんのでご注意ください。

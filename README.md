@@ -1,5 +1,6 @@
 # GetSharedSQL
 Import Google spreadsheet data into Unity editor. (SQLite)
+tags: C# Unity gas spreadsheet sqlite  
 
 # 前提
 - unity 2018.4.1f1

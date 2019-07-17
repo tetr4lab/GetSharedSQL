@@ -18,5 +18,5 @@ tags: C# Unity gas spreadsheet sqlite
 
 # 注意点
 - [SQLiteUnityKit](https://github.com/tetr4lab/SQLiteUnityKit)は含みません。
-- [スプレッドシートの雛形](https://docs.google.com/spreadsheets/d/1fm81xrC1qh4-yAnGVocDa6iqj-xDocZUMOTModalxzw/edit?usp=sharing)が異なります。
+- [スプレッドシートの雛形](https://docs.google.com/spreadsheets/d/1fm81xrC1qh4-yAnGVocDa6iqj-xDocZUMOTModalxzw/edit?usp=sharing)が元記事とは異なります。
 元記事の雛形は使えませんのでご注意ください。
